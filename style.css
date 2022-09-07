@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: poppins;
+}
+
+.cta {
+    background-color: rgb(100, 58, 225);
+    width: 25%;
+    display: block;
+    position: relative;
+    padding: 10px;
+    margin: 15px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    border-bottom: solid 1px ;
+}
+
+checkbox {
+    list-style: none;
+    padding: 12px;
+    margin: 20px;
+    justify-content: center;
+}
+
+label {
+    margin-top: 5px;
+}   
+
+input[type="color"] {
+    appearance: none;
+    background: none;
+  border: 0;
+}
+select {
+    border: none;
+    height: 26px;
+    width: 65%;
+}
+
+textarea {
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+}
+
+input {
+    border: none;
+    border-radius: 1px;
+    background-color: rgb(255, 255, 255);
+  
