@@ -8,7 +8,7 @@
 }
 
 .cta {
-    background-color: rgb(100, 58, 225);
+    background-color: rgb(86, 49, 195);
     width: 25%;
     display: block;
     position: relative;
@@ -40,7 +40,7 @@ label {
 input[type="color"] {
     appearance: none;
     background: none;
-  border: 0;
+    border: 0;
 }
 select {
     border: none;
@@ -57,6 +57,6 @@ textarea {
 input {
     border: none;
     border-radius: 1px;
-    background-color: rgb(255, 255, 255);
+    
   
 }
